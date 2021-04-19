@@ -15,7 +15,7 @@ public class Calculator {
         	test.str1=subStr[0]; test.str2=subStr[2];
             test.Test();
         }else{
-        	System.out.println("Wrong input forat.");
+        	System.out.println("Wrong input format.");
         }
         switch (subStr[1]) {
 	        case ("+"):
